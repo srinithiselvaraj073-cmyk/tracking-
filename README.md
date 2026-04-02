@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to your income-expense-tracker
 
 TODO: Document your project here
